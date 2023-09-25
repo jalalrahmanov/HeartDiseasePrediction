@@ -1,3 +1,5 @@
+# Heart Disease Prediction
+
 This script is about building classification models using sklearn library.
 
 • Building models
@@ -8,7 +10,7 @@ This script is about building classification models using sklearn library.
 
 • Cross validation
 
-# HeartDiseasePrediction
+# Dataset Description
 
 Disclaimer: The dataset has minor modifications to protect its confidentiality.  
 
