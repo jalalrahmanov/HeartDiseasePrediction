@@ -1,5 +1,7 @@
 # Heart Disease Prediction
 
+Can you also do this for writing NN from Scratch?
+
 This script is about building classification models using sklearn library.
 
 • Building models
